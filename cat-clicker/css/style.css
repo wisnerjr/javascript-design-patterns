@@ -10,3 +10,7 @@
 .inline-block {
   display: inline-block;
 }
+
+.half-screen {
+  width: 50%;
+}
